@@ -1,4 +1,4 @@
-# **Caesar Cipher Implementation**
+# **Caesar Cipher Implementation - JAVA**
 **Overview:**  
 This program is a simple implementation of the Caesar Cipher encryption algorithm. The Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
 
