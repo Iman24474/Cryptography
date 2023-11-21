@@ -8,6 +8,6 @@ Encryption: The program takes a plaintext message and a specified shift value, a
 Decryption: In addition to encryption, the program can also decrypt a Caesar Cipher encrypted message if provided with the correct shift value.    
 
 # **Extended Euclidean Algorithm - JAVA**  
-  
-**Overview**
+https://github.com/Iman24474/Cryptography/tree/main/ExtendedEuclideanAlgorithm  
+**Overview:**  
 This Java implementation provides the Extended Euclidean Algorithm, a fundamental algorithm in number theory for finding the greatest common divisor (GCD) of two integers and their Bézout coefficients. The Extended Euclidean Algorithm is particularly useful in solving linear Diophantine equations and modular inverses.
