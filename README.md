@@ -10,4 +10,9 @@ Decryption: In addition to encryption, the program can also decrypt a Caesar Cip
 # **Extended Euclidean Algorithm - JAVA**  
 https://github.com/Iman24474/Cryptography/tree/main/ExtendedEuclideanAlgorithm  
 **Overview:**  
-This Java implementation provides the Extended Euclidean Algorithm, a fundamental algorithm in number theory for finding the greatest common divisor (GCD) of two integers and their Bézout coefficients. The Extended Euclidean Algorithm is particularly useful in solving linear Diophantine equations and modular inverses.
+This Java implementation provides the Extended Euclidean Algorithm, a fundamental algorithm in number theory for finding the greatest common divisor (GCD) of two integers and their Bézout coefficients. The Extended Euclidean Algorithm is particularly useful in solving linear Diophantine equations and modular inverses.  
+**Features:**  
+gcd: The greatest common divisor of the input integers.  
+coefficientS: Bézout coefficient for the first integer.  
+coefficientT: Bézout coefficient for the second integer.  
+Table: A Table showing detailed steps of how the extended Euclidean algorithm proceeds for the given inputs.
